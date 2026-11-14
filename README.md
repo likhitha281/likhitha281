@@ -1,6 +1,8 @@
-# Likhitha Sindhu Geddam
+<h1 align="center">Likhitha Sindhu Geddam</h1>
 
-**M.S. Data Science '27 @ Arizona State University**
+<p align="center">
+  <strong>M.S. Data Science '27 @ Arizona State University</strong>
+</p>
 
 ```json
 {
